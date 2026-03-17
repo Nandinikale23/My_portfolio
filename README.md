@@ -1,34 +1,30 @@
-🌐 My Portfolio Website
-📌 About
+# 🌐 My Portfolio Website
 
-This is my personal portfolio website where I showcase my projects, skills, and learning journey in web development and programming.
+## 📌 About
+This is my personal portfolio website where I showcase my projects, skills, experience and learning journey in web development and programming.
 
-🚀 Features
+---
 
-👩‍💻 About Me section
+## 🚀 Features
+- 👩‍💻 About Me section  
+- 🛠 Skills and Technologies  
+- 📂 Projects showcase  
+- 📞 Contact information  
+- 📱 Responsive design (works on mobile & desktop)
 
-🛠 Skills and Technologies
+---
 
-📂 Projects showcase
+## 🧑‍💻 Technologies Used
+- HTML  
+- CSS  
+- JavaScript  
 
-📞 Contact information
 
-📱 Responsive design (works on mobile & desktop)
+---
 
-🧑‍💻 Technologies Used
-
-HTML
-
-CSS
-
-JavaScript
-
-(Add more if you used: React, Bootstrap, etc.)
-
-📂 Project Structure
+## 📂 Project Structure
 portfolio/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-└── assets/
