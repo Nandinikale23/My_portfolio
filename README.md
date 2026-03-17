@@ -42,7 +42,7 @@ portfolio/
 📂 Projects Showcase
 <img width="1885" height="1044" alt="Screenshot 2026-03-17 223513" src="https://github.com/user-attachments/assets/ff2e7c56-3e6b-4ec6-a7d2-2eb1dcf41963" />
 
-📬 **Contact Section**
+📬 **Contact section**
 <img width="1879" height="1044" alt="Screenshot 2026-03-17 223536" src="https://github.com/user-attachments/assets/8bc3042f-b18e-4f7d-97f2-e979ea8d811a" />
 
 
